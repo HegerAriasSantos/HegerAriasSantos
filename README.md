@@ -1,7 +1,7 @@
 # Hello world
 #### About me 
 - My full name is: Heger Arias Santos 🤗
-- I am 18 years old  😎
+- I am 20 years old  😎
 - i am dominican  🌭
 - I am currently learning on platzi  💚
 - i am fronted developer  🎉
