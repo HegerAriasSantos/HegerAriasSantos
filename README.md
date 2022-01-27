@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my own proyect.**
 
-- 🌱 I’m currently learning **javascript & Go**
+- 🌱 I’m currently learning **javascript**
 
 - 💬 Ask me about **web Development**
 
