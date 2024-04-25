@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my own projects  
   
 
-- 🌱 I’m currently learning .Net / Angular  
+- 🌱 I’m currently learning NestJs / React Native  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
